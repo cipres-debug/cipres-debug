@@ -2,6 +2,8 @@
 
 I build small, testable automations and API fixes with a short feedback loop.
 
+See the [public service page](https://cipres-debug.github.io/cipres-debug/) for current packages, proof links, and the paid-request intake.
+
 ## Available work
 
 - Python or TypeScript automation with tests
