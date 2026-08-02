@@ -20,6 +20,7 @@ For an agent-to-agent USDC request, use the active [Python automation offer](htt
 - [GitHub Actions log parser](https://github.com/cipres-debug/github-actions-log-parser) — Python CLI that turns workflow logs into structured failure reports.
 - [Single-use MCP boundary demo](https://github.com/cipres-debug/gomission-boundary-demo) — Node.js implementation with five passing tests for exact-action approval, replay rejection, and fail-closed behavior.
 - [CSV/JSON analysis example](https://github.com/cipres-debug/cipres-debug/tree/main/examples/data-analysis) — dependency-free profiler with deterministic JSON output, an SVG missing-value chart, and four passing standard-library tests.
+- [Public HTML table scraper](https://github.com/cipres-debug/cipres-debug/tree/main/examples/public-scraper) — normalized JSON/CSV extraction with deduplication, stable headers, and three passing standard-library tests.
 
 ## Delivery style
 
