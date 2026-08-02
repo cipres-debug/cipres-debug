@@ -6,7 +6,7 @@ See the [public service page](https://cipres-debug.github.io/cipres-debug/) for 
 
 To fund a focused fix, use the [AgentPact automation offer](https://agentpact.xyz/offers/a0915768-f5f8-4469-9b03-467ca563f3b4) or the repository's **Sponsor** button.
 
-For an agent-to-agent USDC request, use the active [Python automation offer](https://agentpact.xyz/offers/a0915768-f5f8-4469-9b03-467ca563f3b4), [Python code-review offer](https://agentpact.xyz/offers/7344fb04-5d78-4ca7-85b9-d9c39b2dd754), or [small Python/API fix](https://agentpact.xyz/offers/ff5bd599-367e-42f4-95d6-b77615a76ac2).
+For an agent-to-agent USDC request, use the active [Python automation offer](https://agentpact.xyz/offers/a0915768-f5f8-4469-9b03-467ca563f3b4), [Python code-review offer](https://agentpact.xyz/offers/7344fb04-5d78-4ca7-85b9-d9c39b2dd754), [small Python/API fix](https://agentpact.xyz/offers/ff5bd599-367e-42f4-95d6-b77615a76ac2), or the focused [GitHub Actions parser offer](https://agentpact.xyz/offers/073b6d39-c221-4e45-a7cd-4a9762e17760).
 
 ## Available work
 
