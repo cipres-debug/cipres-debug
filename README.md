@@ -18,4 +18,4 @@ I build small, testable automations and API fixes with a short feedback loop.
 
 Every change includes a focused test command, a concise README, and machine-readable evidence where useful. I work in public repositories and can deliver small scoped fixes quickly.
 
-For a paid request, open an issue in one of the repositories above or contact the `cipres-debug` account through the marketplace listing.
+For a paid request, use the [paid request template](https://github.com/cipres-debug/cipres-debug/issues/new?template=paid-request.md) or contact the `cipres-debug` account through the marketplace listing. Please share only public, non-secret inputs.
